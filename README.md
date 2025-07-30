@@ -1,3 +1,6 @@
+Ravinder singh
+Student no. 41135535
+
 📒 Contact Book
 A simple Single Page Application (SPA) built using Vue 3, Vue Router, and Vite that allows users to manage a contact book in the browser. Contacts are stored locally using the browser's localStorage, so no backend is required.
 
